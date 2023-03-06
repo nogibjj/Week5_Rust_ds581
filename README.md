@@ -1,7 +1,7 @@
 # Week5_Rust_ds581
 
 ## Random Song Name Generator
-This is a simple Rust program that generates a random 2 word song name from a list of given words. 
+This is a simple Rust program that generates a random name for a song with two words from a list of given words. 
 
 ## Usage
 To use the program, run `cargo run` in the project directory. The program will generate a random song name and print it to the console.
